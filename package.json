@@ -1,0 +1,23 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "这是一个Vue+ElementUi+NodeJs的资金管理系统测试项目",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr6pets/moneyManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr6pets/moneyManagement/issues"
+  },
+  "homepage": "https://github.com/Mr6pets/moneyManagement#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
